@@ -106,9 +106,9 @@ Este projeto foi desenvolvido para fins de estudo e prática em Power BI, utiliz
 
 **Jackson Oliveira**
 
-🔗 LinkedIn: *(adicione aqui o link do seu perfil)*
+🔗 LinkedIn: [Jackson Oliveira](https://www.linkedin.com/in/jackson-oliveira-230b54106)
 
-🐙 GitHub: *(adicione aqui o link do seu GitHub)*
+🐙 GitHub: [Jackson Oliveira](https://github.com/jacksonoliiver13)
 
 ---
 
